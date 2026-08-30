@@ -21,6 +21,7 @@
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend">
   <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare R2">
   <img src="https://img.shields.io/badge/Neon-00E5A0?style=for-the-badge&logo=postgresql&logoColor=111111" alt="Neon">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -37,7 +38,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Software Development student at **ITM**, focused on becoming a strong
+I'm a Software Development student at **SENA**, focused on becoming a strong
 full-stack developer through real-world projects and continuous self-learning.
 
 My approach is not just to learn frameworks, but to understand how the pieces
@@ -92,6 +93,7 @@ while paying attention to **architecture, data integrity, security and UX**.
 - **Pydantic**
 - **SQLAlchemy**
 - **Alembic**
+- **Resend**
 - REST API architecture
 - Dependency Injection
 - Request/response validation
@@ -198,7 +200,7 @@ Database
 - HTML5
 - CSS3
 - JavaScript
-- Tailwind CSS
+- Tailwind CSS (Learning)
 - Responsive layouts
 - CSS architecture
 - DOM manipulation
@@ -357,7 +359,7 @@ The project has been an important practical exercise in:
 
 ---
 
-# 🎵 AkaMenezBeats Store
+# 🎵 AkaMenezBeat Store v1.5.0
 
 A web platform for showcasing and selling instrumental beats.
 
@@ -377,6 +379,7 @@ music production and underground hip-hop.
 - API-driven content
 - Object storage
 - Database-backed catalog
+- Mail services
 
 ### Architecture
 
@@ -415,6 +418,7 @@ music production and underground hip-hop.
 - Authorization
 - JWT
 - OAuth
+- Resend
 - API security
 - Rate limiting
 
@@ -490,6 +494,7 @@ storage.
 | **Audio** | Web Audio API · Canvas API · FFT |
 | **Storage** | Cloudflare R2 |
 | **Version Control** | Git · GitHub |
+| **Other** | Resend · Docker · Render|
 | **Environment** | Python Virtual Environments · VS Code |
 
 ---
