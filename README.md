@@ -364,7 +364,7 @@ The project has been an important practical exercise in:
 A web platform for showcasing and selling instrumental beats.
 
 The project combines my software development skills with my interest in
-music production and underground hip-hop.
+music production and underground hip-hop akamenezbeatstore.com.
 
 ### Core concepts
 
