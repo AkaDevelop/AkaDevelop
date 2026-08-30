@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Juan Cuartas
+# 👋 Hi, I'm Juan Cuartas Jiménez
 
 ### `Software Development Student` · `Full-Stack Developer in Progress`
 
