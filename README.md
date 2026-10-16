@@ -458,7 +458,7 @@ music production and underground hip-hop
 
 > **Don't just make it work. Understand why it works.**
 
-I prefer learning by building complete systems rather than isolated exercises.
+I prefer learning by building complete systems rather than only isolated exercises.
 
 ```text
 Learn
