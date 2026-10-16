@@ -443,6 +443,7 @@ music production and underground hip-hop
 - Responsive architecture
 - Web Audio API
 - Canvas rendering
+- CSS + Tailwind
 
 ### Infrastructure
 
